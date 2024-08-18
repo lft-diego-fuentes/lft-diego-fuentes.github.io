@@ -17,7 +17,7 @@ const serviciosData = {
     },
     dermatofuncional: {
         img: "/public/images/dermato.jpg",
-        title: "Tratamiento Dermatofuncional",
+        title: "Salud y Rejuvenecimiento de la Piel",
         text: "Mejora tu salud y apariencia de la piel con nuestro tratamiento dermatofuncional. Ofrecemos soluciones efectivas para problemas dermatológicos, combinando tecnología avanzada con cuidados personalizados."
     }
 };
