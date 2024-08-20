@@ -359,7 +359,6 @@ commentsmobile {
 
 .ubi {
   margin-top: 15px;
-  margin-left: 20px;
   height: 15rem;
 }
 
@@ -503,9 +502,18 @@ commentsmobile {
     justify-content: space-around;
   }
 
+  #contacto .col-4 {
+    width: 100%;
+  }
+
+  #contacto .col-8 {
+    width: 100%;
+  }
+
   .ubi {
     margin-bottom: .5rem !important;
   }
+
 
 
 }
@@ -578,6 +586,26 @@ commentsmobile {
     height: auto;
   }
 
+  #contacto span {
+    display: none;
+  }
+
+  #contacto .center {
+    justify-content: space-around;
+  }
+
+  #contacto .col-4 {
+    width: 100%;
+  }
+
+  #contacto .col-8 {
+    width: 100%;
+  }
+
+  .ubi {
+    margin-bottom: .5rem !important;
+  }
+
 }
 
 /* Pantallas grandes (Desktop) */
@@ -614,30 +642,4 @@ commentsmobile {
   .section-padding {
     padding-top: 100px;
   }
-}
-
-
-/* Paleta de Colores Vivos y Variados */
-.azul-cobalto {
-  color: #0047AB;
-}
-
-.naranja-mandarina {
-  color: #FF6347;
-}
-
-.amarillo-sol {
-  color: #FFD700;
-}
-
-.verde-lima {
-  color: #32CD32;
-}
-
-.rojo-coral {
-  color: #FF4500;
-}
-
-.purpura-vibrante {
-  color: #8A2BE2;
 }
