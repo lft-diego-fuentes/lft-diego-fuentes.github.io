@@ -266,7 +266,7 @@ body {
 
 .overlay::before {
   content: "";
-  background-image: url('/public/images/comentarios.jpg');
+  background-image: url('https://live.staticflickr.com/65535/53933757832_18b590dec7_k.jpg');
   background-size: cover;
   background-position: center; 
   background-repeat: no-repeat;

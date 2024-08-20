@@ -1,22 +1,22 @@
 // Dataset
 const serviciosData = {
     postoperatorios: {
-        img: "/public/images/postoperatorios.png",
+        img: "https://live.staticflickr.com/65535/53933754297_8a807222b5_c.jpg", 
         title: "Cuidado y Rehabilitación Estética Postoperatoria",
         text: "Acelera tu recuperación con nuestro tratamiento especializado. Mejoramos la cicatrización y los resultados estéticos tras procedimientos quirúrgicos, ayudándote a recuperar tu bienestar y confianza."
     },
     traumatologicos: {
-        img: "/public/images/traumatologico.jpg",
+        img: "https://live.staticflickr.com/65535/53935109055_90fdc42ac2_c.jpg",
         title: "Rehabilitación Traumatológica Funcional",
         text: "Recupera tu funcionalidad con nuestro tratamiento especializado en rehabilitación traumatológica. Optimiza la recuperación de tus lesiones y vuelve a tu mejor estado físico con nuestro enfoque personalizado."
     },
     lesiones: {
-        img: "/public/images/deportivas.jpg",
+        img: "https://live.staticflickr.com/65535/53935111135_bea8792196_c.jpg" ,
         title: "Tratamiento de Lesiones Deportivas",
         text: "Optimiza tu recuperación con nuestro tratamiento especializado en lesiones deportivas. Nuestro enfoque personalizado te ayuda a volver a tus actividades con mayor rapidez y eficacia."
     },
     dermatofuncional: {
-        img: "/public/images/dermato.jpg",
+        img: "https://live.staticflickr.com/65535/53934900538_39fa63c9bf_c.jpg" ,
         title: "Salud y Rejuvenecimiento de la Piel",
         text: "Mejora tu salud y apariencia de la piel con nuestro tratamiento dermatofuncional. Ofrecemos soluciones efectivas para problemas dermatológicos, combinando tecnología avanzada con cuidados personalizados."
     }
